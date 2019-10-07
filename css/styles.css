@@ -1,5 +1,5 @@
 .head{
-    background-image: url("./IMAGES/download.jpeg");
+    background-image: url("../IMAGES/download.jpeg");
     text-align: center;
     background-size: cover;
     height: 400px;
@@ -7,7 +7,7 @@
 }
 .us{
     text-align:center; 
-    background-image: url("./IMAGES");
+    background-image: url("../IMAGES/pizza1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 50%;
@@ -17,4 +17,12 @@
     padding: 0;
     margin: 0;
     /* overflow: hidden; */
+}
+.about{
+    text-align: center;
+    text-decoration-style: inherit;
+
+}
+input{
+    background-color: transparent;
 }
